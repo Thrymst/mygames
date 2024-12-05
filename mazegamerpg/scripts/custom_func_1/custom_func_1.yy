@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"custom_func_1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"custom_func_1",
+  "parent":{
+    "name":"GameControl",
+    "path":"folders/GameControl.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

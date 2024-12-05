@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"saveFunc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"saveFunc",
+  "parent":{
+    "name":"GameControl",
+    "path":"folders/GameControl.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

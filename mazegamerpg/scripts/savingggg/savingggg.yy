@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"savingggg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"savingggg",
+  "parent":{
+    "name":"GameControl",
+    "path":"folders/GameControl.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

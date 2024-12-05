@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"weapon_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"weapon_create",
+  "parent":{
+    "name":"GameControl",
+    "path":"folders/GameControl.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
