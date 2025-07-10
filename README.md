@@ -12,7 +12,10 @@
 ## 🎯 Game Overview
 
 **Top-Down Shooter** is a 2D action game where players navigate through multiple levels, battling intelligent AI enemies using various weapons and power-ups. The game features dynamic gameplay mechanics, smooth controls, and challenging enemy AI behavior.
-
+<div align="center">
+   <a href="https://youtu.be/Q3MVD6gU-Wk"><p>📸 Gameplay</p></a>
+  <a href="https://youtu.be/Q3MVD6gU-Wk"><img src="./images/gameplay2.png" width="460" /></a>
+</div>
 ## 🎮 Gameplay Features
 
 ### Core Mechanics
@@ -195,29 +198,46 @@ mazegamerpg.yyp
 ## 🎨 Screenshots
 
 ### Gameplay
-```
-[Add screenshots here]
-📸 Main Menu
-📸 Gameplay Action
-📸 Boss Battle
-📸 Level Complete
-📸 Settings Menu
-```
+
+<div align="center">
+    <p>📸 Main Menu</p>
+  <img src="./images/mainmenu.png" />
+    <p>📸 Gameplay Action</p>
+  <img src="./images/gameplay1.png" />
+  <p>📸 Boss Battle</p>
+  <img src="./images/gameplay2.png" width="460" />
+    <p>📸 Level Complete</p>
+  <img src="./images/win.png" />
+      <p>📸 Pause Menu</p>
+  <img src="./images/pause.png" />
+</div>
 
 ### Development Process
-```
-📷 **Sprite Creation**
-- **Player**: ![Player Sprite](./images/development/player-sprite.png)
-- **Enemies**: ![Enemy Sprites](./images/development/enemy-sprites.png)
-- **Objects**: ![Game Objects](./images/development/game-objects.png)
-- **Weapons**: ![Weapon Sprites](./images/development/weapon-sprites.png)
+### 📷 Sprite Creation 
 
-📷 **Level Design Process**
-- **Map Sprite**: ![Map Sprite](./images/levels/map-sprite.png)
-- **Level 1 Stage**: ![Level 1](./images/levels/level1-stage.png)
-- **Level 2 Stage**: ![Level 2](./images/levels/level2-stage.png)
-- **Boss Stage**: ![Boss Stage](./images/levels/boss-stage.png)
-```
+<div align="center">
+    <p>📸Player</p>
+  <img src="./images/player-sprite.png" />
+    <p>📸Enemy</p>
+  <img src="./images/enemies-sprite.png" />
+  <p>📸Object</p>
+  <img src="./images/objects-sprite.png" />
+    <p>📸Weapon</p>
+  <img src="./images/weapons-sprite.png" />
+</div>
+
+### 📷 Stage Creation 
+
+<div align="center">
+    <p>Map Sprite</p>
+  <img src="./images/map-sprite.png" />
+    <p>Level 1 Stage</p>
+  <img src="./images/level1-stage.png" />
+    <p>Level 2 Stage</p>
+  <img src="./images/level2-stage.png" />
+  <p>Boss Stage</p>
+  <img src="./images/boss-stage.png" />
+</div>
 
 ### Development Milestones
 - ✅ **Prototype Complete**: Basic gameplay mechanics
