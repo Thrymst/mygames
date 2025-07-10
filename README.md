@@ -13,13 +13,13 @@
 
 **Top-Down Shooter** is a 2D action game where players navigate through multiple levels, battling intelligent AI enemies using various weapons and power-ups. The game features dynamic gameplay mechanics, smooth controls, and challenging enemy AI behavior.
 
-## 🎥 Tonton Gameplay
+## 🎥 Watch Gameplay 🎮
 
 [![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtu.be/Q3MVD6gU-Wk)
 <div align="center">
   <a href="https://youtu.be/Q3MVD6gU-Wk"><img src="./images/gameplay2.png" width="460" /></a>
 </div>
-## 🎮 Gameplay Features
+
 
 ### Core Mechanics
 - **🎯 Precision Shooting**: Aim and shoot with mouse controls
