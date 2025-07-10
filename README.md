@@ -125,20 +125,20 @@ Enemy AI States:
 1. **Download the latest release**
 ```bash
 # Clone the repository
-git clone https://github.com/Thrymst/top-down-shooter.git
-cd top-down-shooter
+git clone https://github.com/Thrymst/mygames.git
+cd mazegamerpg
 ```
 
 2. **Game Maker Studio (Development)**
 ```bash
 # Open the project file
-TopDownShooter.yyp
+mazegamerpg.yyp
 ```
 
 3. **Executable (Play)**
 ```bash
 # Run the compiled game
-./TopDownShooter.exe
+./mazegamerpg.exe
 ```
 
 ## 🎮 Controls
@@ -147,27 +147,21 @@ TopDownShooter.yyp
 - **WASD**: Move character
 - **Mouse**: Aim weapon
 - **Left Click**: Fire weapon
-- **Right Click**: Secondary fire/Block
-- **Spacebar**: Dodge roll
-- **E**: Interact/Pickup items
+- **Right Click**: Change weapon
 - **ESC**: Pause menu
-- **Tab**: Show stats
-
-### Customizable Controls
-Players can rebind all controls through the settings menu.
 
 ## 📊 Game Statistics
 
 ### Development Progress
-- **Development Time**: 12+ months
+- **Development Time**: 4+ months
 - **Code Lines**: 2,500+ lines of GML
-- **Sprites**: 150+ custom sprites
+- **Sprites**: 50+ custom sprites
 - **Sound Effects**: 25+ audio files
-- **Levels**: 7 completed levels
-- **Enemy Types**: 4 unique enemy types
+- **Levels**: 3 completed levels
+- **Enemy Types**: 3 unique enemy types
 
 ### Performance Metrics
-- **Target FPS**: 60 FPS
+- **Target FPS**: 50 FPS
 - **Memory Usage**: < 200 MB
 - **Loading Time**: < 3 seconds
 - **File Size**: ~100 MB
@@ -180,30 +174,23 @@ Players can rebind all controls through the settings menu.
 - **Tiled**: Level design and mapping
 
 ### Audio
-- **Audacity**: Sound effect editing
-- **FL Studio**: Music composition
 - **Freesound**: Sound effect library
 
 ### Testing
 - **Game Maker Debugger**: Code debugging
 - **Manual Testing**: Gameplay balance
-- **Performance Profiler**: Optimization
 
 ## 🎯 Future Updates
 
 ### Planned Features
 - [ ] **Multiplayer Mode**: Local co-op gameplay
-- [ ] **Weapon Customization**: Upgrade and modification system
 - [ ] **New Enemy Types**: 3 additional enemy variants
 - [ ] **Story Mode**: Narrative campaign with cutscenes
-- [ ] **Achievements**: Unlockable rewards system
-- [ ] **Level Editor**: User-generated content tools
 
 ### Technical Improvements
 - [ ] **Mobile Port**: Android and iOS versions
 - [ ] **Performance Optimization**: Better frame rate on older hardware
 - [ ] **Cloud Saves**: Cross-platform progress sync
-- [ ] **Mod Support**: Community modification tools
 
 ## 🎨 Screenshots
 
@@ -219,34 +206,28 @@ Players can rebind all controls through the settings menu.
 
 ### Development Process
 ```
-📷 Level Design Process
-📷 Sprite Creation
-📷 AI Behavior Testing
-📷 Performance Profiling
+📷 **Sprite Creation**
+- **Player**: ![Player Sprite](./images/development/player-sprite.png)
+- **Enemies**: ![Enemy Sprites](./images/development/enemy-sprites.png)
+- **Objects**: ![Game Objects](./images/development/game-objects.png)
+- **Weapons**: ![Weapon Sprites](./images/development/weapon-sprites.png)
+
+📷 **Level Design Process**
+- **Map Sprite**: ![Map Sprite](./images/levels/map-sprite.png)
+- **Level 1 Stage**: ![Level 1](./images/levels/level1-stage.png)
+- **Level 2 Stage**: ![Level 2](./images/levels/level2-stage.png)
+- **Boss Stage**: ![Boss Stage](./images/levels/boss-stage.png)
 ```
-
-## 🏆 Achievements
-
-### Player Achievements
-- **First Kill**: Defeat your first enemy
-- **Combo Master**: Achieve 10x combo multiplier
-- **Speedrunner**: Complete level in under 2 minutes
-- **Pacifist**: Complete level without taking damage
-- **Collector**: Find all secret items in a level
 
 ### Development Milestones
 - ✅ **Prototype Complete**: Basic gameplay mechanics
 - ✅ **Alpha Release**: Core features implemented
-- ✅ **Beta Testing**: Community feedback integration
-- 🔄 **Release Candidate**: Final polishing phase
 
 ## 📈 Analytics & Metrics
 
 ### Player Engagement
 - **Average Session**: 15-20 minutes
 - **Level Completion Rate**: 75%
-- **Boss Defeat Rate**: 60%
-- **Replay Rate**: 40%
 
 ### Technical Performance
 - **Crash Rate**: < 0.1%
@@ -286,12 +267,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Game Engine**: Game Maker Studio 2 by YoYo Games
 - **Art Tools**: Aseprite, Photoshop
 - **Audio Tools**: Audacity, FL Studio
-
-### Community
-- **Game Maker Community**: Forums and tutorials
-- **Pixel Art Community**: Inspiration and techniques
-- **Open Source Assets**: Free sound effects and music
-- **Beta Testers**: Friends and family feedback
 
 ### Special Thanks
 - **Gunadarma University**: Academic support
